@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roqjayson
 - 👀 I’m interested in data analysis!
-- 🌱 I’m currently learning more about it and
+- 🌱 I have 4 years of experience in data analysis and engineering. 
 - 📫 You can reach me here or email me @ roquejayson0@gmail.com
 
 <!---
