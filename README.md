@@ -6,4 +6,4 @@ I hope you enjoy your visit. 💂‍♂️
 
 #RoadCard:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d5951e553501e3c3a9223c?variant=dark&roadmaps=python%2Csql)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66d5951e553501e3c3a9223c?variant=dark)](https://roadmap.sh)
